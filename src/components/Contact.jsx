@@ -43,7 +43,7 @@ function Contact() {
             <div>
               <div className="cl">Location</div>
               <div className="cv">
-                Mohali, Punjab | Gurugram | Noida | Chandigarh
+                Mohali, Punjab
               </div>
             </div>
           </div>
